@@ -4,6 +4,6 @@ My name is Xiaoyu Zhang, and I recently graduated with a Master's degree in Comp
 - Recommender System
 - Natural Language Processing
 
-I have published four papers in WSDM, RecSys, and the Journal of Computer Research and Development (one of the top three computer science journals in China). My work focuses on conversational recommender systems, news recommendation, and medical dialogue generation.
+I have published four papers in WSDM, RecSys(**Best Paper Award**), and the Journal of Computer Research and Development (one of the top three computer science journals in China). My work focuses on conversational recommender systems, news recommendation, and medical dialogue generation.
 
 Please see my attached CV for more details. Feel free to contact me if you’re interested!
